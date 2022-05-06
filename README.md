@@ -1,1 +1,1 @@
-# Replicação da página inicial do Facebook
+# Facebook home page replication.
