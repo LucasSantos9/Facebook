@@ -124,16 +124,12 @@ a:hover {
   margin: 0 auto;
   padding: 20px 0;
   position: relative;
-  width: 980px;
 }
 
 .logo {
   padding: 112px 0 16px;
-  height: 456px;
-  width: 396px;
   padding-bottom: 112px;
   padding-top: 72px;
-  margin: 200px;
   box-sizing: border-box;
   margin-right: 0;
   padding-right: 32px;
