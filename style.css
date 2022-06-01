@@ -48,14 +48,6 @@ input:focus {
 
 footer {
   background: #fff;
-  direction: ltr;
-  line-height: 1.34;
-  padding: 20px;
-  text-align: center;
-  color: #1c1e21;
-  font-family: inherit;
-  display: block;
-  font-size: 12px;
 }
 
 .container {
@@ -197,4 +189,17 @@ footer {
   font-weight: 600;
   color: inherit;
   text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+  color: #737373;
+  font-family: inherit;
+  display: block;
+  font-size: 12px;
+  margin: 0 40px;
+  width: auto;
+  direction: ltr;
+  line-height: 1.34;
+  padding: 20px;
 }
